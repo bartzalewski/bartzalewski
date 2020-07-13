@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/ROJE2rc.png" width="50" alt="bartzalewski.com logo" />
-
 ### Hi there 👋
 
 I specialize in designing, building, shipping, and scaling beautiful, usable products with blazing-fast efficiency.

@@ -6,6 +6,7 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 ### Projects 💼
 
+- 🍔 **[HOPP](https://github.com/bartzalewski/hopp)**
 - 🌑 **[Grammarly Dark](https://github.com/bartzalewski/grammarly-dark)**
 - 🏫 **[Schoolify](https://github.com/bartzalewski/schoolify)**
 - 🌐 **[Pagetify](https://github.com/bartzalewski/pagetify)**

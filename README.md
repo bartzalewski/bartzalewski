@@ -12,6 +12,8 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 - 🌐 **[Pagetify](https://github.com/bartzalewski/pagetify)**
 - 📁 **[Portfolio Website](https://github.com/bartzalewski/bartzalewski.com-v2)**
 
+<sup><kbd>***[Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md)***</kbd> *to view more.*</sup>
+
 ### Follow me! 💚
 
 [Website](https://www.bartzalewski.com) • [Instagram](https://www.instagram.com/bart.code) • [YouTube](https://www.youtube.com/channel/UCwkU0-_RJbS16X5pbcW-tPQ)

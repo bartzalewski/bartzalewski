@@ -4,7 +4,7 @@ I specialize in designing, building, shipping, and scaling beautiful, usable pro
 
 I started coding in December 2018, and I am a self-taught developer. I have a passion for modern looking websites with a few animations. I love what I am doing, and I am highly motivated to collaborate with someone. If you are up into some projects, just let me know!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bartzalewski.visitor-badge)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@bartzalewski&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/bartzalewski/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=bartzalewski.visitor-badge)
 
 ### Projects 💼
 
@@ -19,3 +19,5 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 ### Follow me! 💚
 
 [Website](https://www.bartzalewski.com) • [Instagram](https://www.instagram.com/bart.code) • [YouTube](https://www.youtube.com/channel/UCwkU0-_RJbS16X5pbcW-tPQ)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/bart_coder?style=social)](https://twitter.com/bart_coder) [![GitHub followers](https://img.shields.io/github/followers/bartzalewski.svg?label=Follow%20@bartzalewski&style=social)](https://github.com/bartzalewski/)

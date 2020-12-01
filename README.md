@@ -4,6 +4,8 @@ I specialize in designing, building, shipping, and scaling beautiful, usable pro
 
 I started coding in December 2018, and I am a self-taught developer. I have a passion for modern looking websites with a few animations. I love what I am doing, and I am highly motivated to collaborate with someone. If you are up into some projects, just let me know!
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bartzalewski.visitor-badge)
+
 ### Projects 💼
 
 - 🍔 **[HOPP](https://github.com/bartzalewski/hopp)**

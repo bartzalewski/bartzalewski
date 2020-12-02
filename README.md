@@ -21,7 +21,10 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 <div>
   <a href="https://www.instagram.com/p/CE-W8AcACIe/" target="_blank"><img src="https://i.imgur.com/DK56ZXl.png" alt="8 Tips To Write a Better HTML!" height="100" /></a>
   <a href="https://www.instagram.com/p/CEkP3rgA1yh/" target="_blank"><img src="https://i.imgur.com/KZtNQEN.png" alt="Create a Firebase CRUD App!" height="100" /></a>
-  <a href="https://www.instagram.com/p/CDIBKu1ABuu/" target="_blank"><img src="https://i.imgur.com/TSAZu9n.png" alt="Front-End Developer & Algorithms?" height="100" /></a>  
+  <a href="https://www.instagram.com/p/CDIBKu1ABuu/" target="_blank"><img src="https://i.imgur.com/TSAZu9n.png" alt="Front-End Developer & Algorithms?" height="100" /></a>
+  <a href="https://www.instagram.com/p/CFHYTlWgieU/" target="_blank"><img src="https://i.imgur.com/FJxUXcE.png" alt="Learn GIT Good Practices!" height="100" /></a>
+  <a href="https://www.instagram.com/p/CEUIak-AX1a/" target="_blank"><img src="https://i.imgur.com/GRd6ffh.png" alt="Create a Rich Text Editor!" height="100" /></a>
+  <a href="https://www.instagram.com/p/CCmvfvbAl6B/" target="_blank"><img src="https://i.imgur.com/iedrYNS.png" alt="How Many Hours Do You Code a Day?" height="100" /></a>
 </div>
 
 ### Follow me! 💚

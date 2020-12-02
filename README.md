@@ -34,6 +34,7 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bart_coder?style=social)](https://twitter.com/bart_coder)
 [![GitHub followers](https://img.shields.io/github/followers/bartzalewski.svg?label=Follow%20@bartzalewski&style=social)](https://github.com/bartzalewski/)
+
 <div>
   <a href="https://www.bartzalewski.com/" target="_blank"><img src="https://i.imgur.com/oHCmXy9.png" alt="Website" height="20" /></a>
   <a href="https://www.instagram.com/bart.code/" target="_blank"><img src="https://i.imgur.com/j0J1h2c.png" alt="Instagram" height="20" /></a>

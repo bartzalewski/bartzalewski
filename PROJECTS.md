@@ -57,6 +57,8 @@
 | :nine: | [Mirumee SWAPI](https://bartzalewski.com/Telean/) | <br> Description here <br><br> | [@bartzalewski/mirumee-task](https://github.com/bartzalewski/mirumee-task/) |
 | :one::zero: | [Retailic Clojure](https://bartzalewski.com/Telean/) | <br> Description here <br><br> | [@bartzalewski/retailic-task](https://github.com/bartzalewski/retailic-task/) |
 | :one::one: | [Dev and Deliver SWAPI Node.js](https://bartzalewski.com/Telean/) | <br> Description here <br><br> | [@bartzalewski/dev-and-deliver-task](https://github.com/bartzalewski/dev-and-deliver-task/) |
+| :one::two: | [Hangman Game](https://bartzalewski.com/Telean/) | <br> Description here <br><br> | [@bartzalewski/hangman-game](https://github.com/bartzalewski/hangman-game/) |
+| :one::three: | [House CRUD API](https://bartzalewski.com/Telean/) | <br> Description here <br><br> | [@bartzalewski/mobile-reality](https://github.com/bartzalewski/mobile-reality/) |
 
 <br>
 

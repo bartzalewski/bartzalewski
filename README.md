@@ -30,10 +30,12 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
   <a href="https://www.instagram.com/p/CCsC3dWgqvX/" target="_blank"><img src="https://i.imgur.com/AZ8MjwD.png" alt="Create Dark Reader in 20 Lines!" height="90" /></a>
 </div>
 
-### Follow me! 💚
+### Follow me 💚
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bart_coder?style=social)](https://twitter.com/bart_coder)
 [![GitHub followers](https://img.shields.io/github/followers/bartzalewski.svg?label=Follow%20@bartzalewski&style=social)](https://github.com/bartzalewski/)
+
+### Social media 🤗
 
 <div>
   <a href="https://www.bartzalewski.com/" target="_blank"><img src="https://i.imgur.com/oHCmXy9.png" alt="Website" height="20" /></a>

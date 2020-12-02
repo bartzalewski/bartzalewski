@@ -32,6 +32,10 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 ### Follow me! 💚
 
-[Website](https://www.bartzalewski.com) • [Instagram](https://www.instagram.com/bart.code) • [YouTube](https://www.youtube.com/channel/UCwkU0-_RJbS16X5pbcW-tPQ)
+<div>
+  <a href="https://www.bartzalewski.com/" target="_blank"><img src="https://i.imgur.com/oHCmXy9.png" alt="Website" height="20" /></a>
+  <a href="https://www.instagram.com/bart.code/" target="_blank"><img src="https://i.imgur.com/j0J1h2c.png" alt="Instagram" height="20" /></a>
+  <a href="https://www.youtube.com/channel/UCwkU0-_RJbS16X5pbcW-tPQ/" target="_blank"><img src="https://i.imgur.com/qxcYMW5.png" alt="YouTube" height="20" /></a>
+</div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bart_coder?style=social)](https://twitter.com/bart_coder) [![GitHub followers](https://img.shields.io/github/followers/bartzalewski.svg?label=Follow%20@bartzalewski&style=social)](https://github.com/bartzalewski/)

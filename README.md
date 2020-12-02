@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 I specialize in designing, building, shipping, and scaling beautiful, usable products with blazing-fast efficiency.
 
@@ -6,7 +6,7 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@bartzalewski&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/bartzalewski/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=bartzalewski.visitor-badge)
 
-### Projects 💼
+### 💼 Projects
 
 - 🍔 **[HOPP](https://github.com/bartzalewski/hopp)**
 - 🌑 **[Grammarly Dark](https://github.com/bartzalewski/grammarly-dark)**
@@ -16,7 +16,7 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 <sup><kbd>***[Click here](https://github.com/bartzalewski/bartzalewski/blob/master/PROJECTS.md)***</kbd> *to view more.*</sup>
 
-### Instagram posts 📷
+### 📷 Instagram posts
 
 <div>
   <a href="https://www.instagram.com/p/CE-W8AcACIe/" target="_blank"><img src="https://i.imgur.com/DK56ZXl.png" alt="8 Tips To Write a Better HTML!" height="90" /></a>
@@ -30,12 +30,12 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
   <a href="https://www.instagram.com/p/CCsC3dWgqvX/" target="_blank"><img src="https://i.imgur.com/AZ8MjwD.png" alt="Create Dark Reader in 20 Lines!" height="90" /></a>
 </div>
 
-### Follow me 💚
+### 💚 Follow me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bart_coder?style=social)](https://twitter.com/bart_coder)
 [![GitHub followers](https://img.shields.io/github/followers/bartzalewski.svg?label=Follow%20@bartzalewski&style=social)](https://github.com/bartzalewski/)
 
-### Social media 🤗
+### 🤗 Social media
 
 <div>
   <a href="https://www.bartzalewski.com/" target="_blank"><img src="https://i.imgur.com/oHCmXy9.png" alt="Website" height="20" /></a>

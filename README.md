@@ -16,6 +16,14 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 <sup><kbd>***[Click here](https://github.com/bartzalewski/bartzalewski/blob/master/PROJECTS.md)***</kbd> *to view more.*</sup>
 
+### Instagram posts 📷
+
+<div>
+  <a href="https://www.instagram.com/p/CE-W8AcACIe/" target="_blank"><img src="https://i.imgur.com/DK56ZXl.png" alt="8 Tips To Write a Better HTML!" height="100" /></a>
+  <a href="https://www.instagram.com/p/CEkP3rgA1yh/" target="_blank"><img src="https://i.imgur.com/KZtNQEN.png" alt="Create a Firebase CRUD App!" height="100" /></a>
+  <a href="https://www.instagram.com/p/CDIBKu1ABuu/" target="_blank"><img src="https://i.imgur.com/TSAZu9n.png" alt="Front-End Developer & Algorithms?" height="100" /></a>  
+</div>
+
 ### Follow me! 💚
 
 [Website](https://www.bartzalewski.com) • [Instagram](https://www.instagram.com/bart.code) • [YouTube](https://www.youtube.com/channel/UCwkU0-_RJbS16X5pbcW-tPQ)

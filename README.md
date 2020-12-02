@@ -25,6 +25,9 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
   <a href="https://www.instagram.com/p/CFHYTlWgieU/" target="_blank"><img src="https://i.imgur.com/FJxUXcE.png" alt="Learn GIT Good Practices!" height="100" /></a>
   <a href="https://www.instagram.com/p/CEUIak-AX1a/" target="_blank"><img src="https://i.imgur.com/GRd6ffh.png" alt="Create a Rich Text Editor!" height="100" /></a>
   <a href="https://www.instagram.com/p/CCmvfvbAl6B/" target="_blank"><img src="https://i.imgur.com/iedrYNS.png" alt="How Many Hours Do You Code a Day?" height="100" /></a>
+  <a href="https://www.instagram.com/p/CChfniCAEHC/" target="_blank"><img src="https://i.imgur.com/s6pJ9hL.png" alt="8 Tips For Every Newbie Programmer!" height="100" /></a>
+  <a href="https://www.instagram.com/p/CFA6uaUAFgo/" target="_blank"><img src="https://i.imgur.com/f3a4N9l.png" alt="What Tech Stack Should You Learn?" height="100" /></a>
+  <a href="https://www.instagram.com/p/CCsC3dWgqvX/" target="_blank"><img src="https://i.imgur.com/AZ8MjwD.png" alt="Create Dark Reader in 20 Lines!" height="100" /></a>
 </div>
 
 ### Follow me! 💚

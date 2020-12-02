@@ -6,11 +6,10 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 ### Projects 💼
 
-- 🍔 **[HOPP](https://github.com/bartzalewski/hopp)**
-- 🌑 **[Grammarly Dark](https://github.com/bartzalewski/grammarly-dark)**
-- 🏫 **[Schoolify](https://github.com/bartzalewski/schoolify)**
-- 🌐 **[Pagetify](https://github.com/bartzalewski/pagetify)**
-- 📁 **[Portfolio Website](https://github.com/bartzalewski/bartzalewski.com-v2)**
+| | | |
+|---|---|---|
+| 🍔 — [**HOPP**](https://github.com/bartzalewski/hopp) | 🌑 — [**Grammarly Dark**](https://github.com/bartzalewski/grammarly-dark) | 🏫 — [**Schoolify**](https://github.com/bartzalewski/schoolify)  |
+| 🌐 — [**Pagetify**](https://github.com/bartzalewski/pagetify) | 📁 — [**Portfolio Website**](https://github.com/bartzalewski/bartzalewski.com-v2) | ⌨️ — [**CodeTyper**](https://github.com/bartzalewski/code-typer)  |
 
 <sup><kbd>***[Click here](https://github.com/bartzalewski/bartzalewski/blob/master/PROJECTS.md)***</kbd> *to view more.*</sup>
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I started coding in December 2018, and I am a self-taught developer. I have a passion for modern looking websites with a few animations. I love what I am doing, and I am highly motivated to collaborate with someone. If you are up into some projects, just let me know!
+I began my coding journey in December 2018 as a self-taught developer. My passion lies in crafting modern, visually appealing websites enhanced with subtle animations. I'm deeply committed to my work and always eager to collaborate on exciting projects. If you have an idea or project in mind, I'd love to hear from you!
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@bartzalewski&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/bartzalewski/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=bartzalewski.visitor-badge)
 
